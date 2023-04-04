@@ -16,6 +16,8 @@
    -  3-Grown Ups
    -   [film info](https://www.imdb.com/title/tt1375670/?ref_=nv_sr_srsg_)
 
+	![film cover](/Bilder/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_.jpg)	
+
 
 ### Schindler's List
 - Link zur [IMDB-Webseite](https://www.imdb.com/title/tt0108052/?ref_=adv_li_tt)
