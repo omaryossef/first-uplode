@@ -16,27 +16,26 @@
    -  3-Grown Ups
    -   [film info](https://www.imdb.com/title/tt1375670/?ref_=nv_sr_srsg_)
 
-    ![Grown Ups cover](/Bilder/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_.jpg) 
 
 ### Schindler's List
 - Link zur [IMDB-Webseite](https://www.imdb.com/title/tt0108052/?ref_=adv_li_tt)
 
 
-- [Description for this film](../git-filme/filme/SchindlersListe.md)
+- [Description for this film](SchindlersListe.md)
 
-  ![Poster](bilder/Schindler.jpg)
+  ![Poster](Bilder/Schindler.jpg)
 
 ### Forrest Gump
 - Link zur [IMDB-Website](https://www.imdb.com/title/tt0109830/?ref_=adv_li_tt)
 
-- [Description for this film](../git-filme/filme/ForrestGump.md)
+- [Description for this film](ForrestGump.md)
 
-  ![Poster](bilder/forrestGump.jpg)
+  ![Poster](Bilder/forrestGump.jpg)
 
 ### Se7en
 - Link zur [IMDB-Website](https://www.imdb.com/title/tt0114369/?ref_=adv_li_tt)
 
-- [Description for this film](../git-filme/filme/Se7en.md)
+- [Description for this film](Se7en.md)
 
-  ![Poster](bilder/se7en.jpg)
+  ![Poster](Bilder/se7en.jpg)
 
