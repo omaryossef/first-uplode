@@ -16,7 +16,7 @@
    -  3-Grown Ups
    -   [film info](https://www.imdb.com/title/tt1375670/?ref_=nv_sr_srsg_)
 
-    ![film cover](/Bilder/grownUp.jpg)	
+![film cover](/Bilder/grownUp.jpg)	
 
 
 ### Schindler's List
