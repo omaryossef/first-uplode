@@ -1,5 +1,4 @@
 # avtar
-## jshjfs
 ### James Cameron
  
 - Sam Worthington
@@ -11,13 +10,8 @@
 
 >
 
-| Rollename | Darstellename |
- -----         -----
-| jake sully | Sam Worthington |
-| Neytiri | Zoe Saldaña |
-| Dra grace | Sigourney Weaver |
-
-| First Header  | Second Header |
+| Rollename  | Darstellename |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| jake sully  | Sam Worthington  |
+| Neytiri  | Zoe Saldaña  |
+| Dra grace  | Sigourney Weaver  |
