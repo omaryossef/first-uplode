@@ -11,3 +11,10 @@
 
 >
 
+| Rollename | Darstellename |
+ -----         -----
+| jake sully | Sam Worthington |
+| Neytiri | Zoe Saldaña |
+| Dra grace | Sigourney Weaver |
+
+
